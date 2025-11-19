@@ -1,15 +1,15 @@
 
 
 import Foundation
-////Si=orting names using closures
-////let names = ["Alice", "Bob", "Charlie"]
-////
-////let sortedElements = getSortedNames(names)
-////let reversedElements = getReversedNames(names)
-////let sortedElementsReversedOrder = getSortedNamesInReverse
-////print("Sorted (descending): \(sortedElements)")
-////print ("ReverseSorted: \(String(describing: sortedElementsReversedOrder))")
-////print("Reversed: \(reversedElements)")
+//Sorting names using closures
+let names = ["Alice", "Bob", "Charlie"]
+
+let sortedElements = getSortedNames(names)
+let reversedElements = getReversedNames(names)
+let sortedElementsReversedOrder = getSortedNamesInReverse
+print("Sorted (descending): \(sortedElements)")
+print ("ReverseSorted: \(reversedElements)")
+print("Reversed: \(reversedElements)")
 //
 //
 ////filtering the evne Numbver using the closurs
@@ -33,8 +33,8 @@ import Foundation
 //   print("cube of numbers: \(cubes)")
 
 
-//capture list
-let closure = getClosure()
-closure()
-number = 50
-closure()
+////capture list
+//let closure = getClosure()
+//closure()
+//number = 50
+//closure()

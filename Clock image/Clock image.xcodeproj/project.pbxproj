@@ -7,40 +7,40 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		3FFDC2DF2ECF152200F61815 /* PBXContainerItemProxy */ = {
+		3FFDC3312ED4C35800F61815 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 3FFDC2C92ECF152000F61815 /* Project object */;
+			containerPortal = 3FFDC31B2ED4C35700F61815 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 3FFDC2D02ECF152000F61815;
+			remoteGlobalIDString = 3FFDC3222ED4C35700F61815;
 			remoteInfo = "Clock image";
 		};
-		3FFDC2E92ECF152200F61815 /* PBXContainerItemProxy */ = {
+		3FFDC33B2ED4C35800F61815 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 3FFDC2C92ECF152000F61815 /* Project object */;
+			containerPortal = 3FFDC31B2ED4C35700F61815 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 3FFDC2D02ECF152000F61815;
+			remoteGlobalIDString = 3FFDC3222ED4C35700F61815;
 			remoteInfo = "Clock image";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3FFDC2D12ECF152000F61815 /* Clock image.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clock image.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3FFDC2DE2ECF152200F61815 /* Clock imageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Clock imageTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3FFDC2E82ECF152200F61815 /* Clock imageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Clock imageUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FFDC3232ED4C35700F61815 /* Clock image.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clock image.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FFDC3302ED4C35800F61815 /* Clock imageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Clock imageTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FFDC33A2ED4C35800F61815 /* Clock imageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Clock imageUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3FFDC2D32ECF152000F61815 /* Clock image */ = {
+		3FFDC3252ED4C35700F61815 /* Clock image */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Clock image";
 			sourceTree = "<group>";
 		};
-		3FFDC2E12ECF152200F61815 /* Clock imageTests */ = {
+		3FFDC3332ED4C35800F61815 /* Clock imageTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Clock imageTests";
 			sourceTree = "<group>";
 		};
-		3FFDC2EB2ECF152200F61815 /* Clock imageUITests */ = {
+		3FFDC33D2ED4C35800F61815 /* Clock imageUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Clock imageUITests";
 			sourceTree = "<group>";
@@ -48,21 +48,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3FFDC2CE2ECF152000F61815 /* Frameworks */ = {
+		3FFDC3202ED4C35700F61815 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3FFDC2DB2ECF152200F61815 /* Frameworks */ = {
+		3FFDC32D2ED4C35800F61815 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3FFDC2E52ECF152200F61815 /* Frameworks */ = {
+		3FFDC3372ED4C35800F61815 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3FFDC2C82ECF152000F61815 = {
+		3FFDC31A2ED4C35700F61815 = {
 			isa = PBXGroup;
 			children = (
-				3FFDC2D32ECF152000F61815 /* Clock image */,
-				3FFDC2E12ECF152200F61815 /* Clock imageTests */,
-				3FFDC2EB2ECF152200F61815 /* Clock imageUITests */,
-				3FFDC2D22ECF152000F61815 /* Products */,
+				3FFDC3252ED4C35700F61815 /* Clock image */,
+				3FFDC3332ED4C35800F61815 /* Clock imageTests */,
+				3FFDC33D2ED4C35800F61815 /* Clock imageUITests */,
+				3FFDC3242ED4C35700F61815 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3FFDC2D22ECF152000F61815 /* Products */ = {
+		3FFDC3242ED4C35700F61815 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3FFDC2D12ECF152000F61815 /* Clock image.app */,
-				3FFDC2DE2ECF152200F61815 /* Clock imageTests.xctest */,
-				3FFDC2E82ECF152200F61815 /* Clock imageUITests.xctest */,
+				3FFDC3232ED4C35700F61815 /* Clock image.app */,
+				3FFDC3302ED4C35800F61815 /* Clock imageTests.xctest */,
+				3FFDC33A2ED4C35800F61815 /* Clock imageUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3FFDC2D02ECF152000F61815 /* Clock image */ = {
+		3FFDC3222ED4C35700F61815 /* Clock image */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3FFDC2F22ECF152200F61815 /* Build configuration list for PBXNativeTarget "Clock image" */;
+			buildConfigurationList = 3FFDC3442ED4C35800F61815 /* Build configuration list for PBXNativeTarget "Clock image" */;
 			buildPhases = (
-				3FFDC2CD2ECF152000F61815 /* Sources */,
-				3FFDC2CE2ECF152000F61815 /* Frameworks */,
-				3FFDC2CF2ECF152000F61815 /* Resources */,
+				3FFDC31F2ED4C35700F61815 /* Sources */,
+				3FFDC3202ED4C35700F61815 /* Frameworks */,
+				3FFDC3212ED4C35700F61815 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				3FFDC2D32ECF152000F61815 /* Clock image */,
+				3FFDC3252ED4C35700F61815 /* Clock image */,
 			);
 			name = "Clock image";
 			packageProductDependencies = (
 			);
 			productName = "Clock image";
-			productReference = 3FFDC2D12ECF152000F61815 /* Clock image.app */;
+			productReference = 3FFDC3232ED4C35700F61815 /* Clock image.app */;
 			productType = "com.apple.product-type.application";
 		};
-		3FFDC2DD2ECF152200F61815 /* Clock imageTests */ = {
+		3FFDC32F2ED4C35800F61815 /* Clock imageTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3FFDC2F52ECF152200F61815 /* Build configuration list for PBXNativeTarget "Clock imageTests" */;
+			buildConfigurationList = 3FFDC3472ED4C35800F61815 /* Build configuration list for PBXNativeTarget "Clock imageTests" */;
 			buildPhases = (
-				3FFDC2DA2ECF152200F61815 /* Sources */,
-				3FFDC2DB2ECF152200F61815 /* Frameworks */,
-				3FFDC2DC2ECF152200F61815 /* Resources */,
+				3FFDC32C2ED4C35800F61815 /* Sources */,
+				3FFDC32D2ED4C35800F61815 /* Frameworks */,
+				3FFDC32E2ED4C35800F61815 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				3FFDC2E02ECF152200F61815 /* PBXTargetDependency */,
+				3FFDC3322ED4C35800F61815 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				3FFDC2E12ECF152200F61815 /* Clock imageTests */,
+				3FFDC3332ED4C35800F61815 /* Clock imageTests */,
 			);
 			name = "Clock imageTests";
 			packageProductDependencies = (
 			);
 			productName = "Clock imageTests";
-			productReference = 3FFDC2DE2ECF152200F61815 /* Clock imageTests.xctest */;
+			productReference = 3FFDC3302ED4C35800F61815 /* Clock imageTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		3FFDC2E72ECF152200F61815 /* Clock imageUITests */ = {
+		3FFDC3392ED4C35800F61815 /* Clock imageUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3FFDC2F82ECF152200F61815 /* Build configuration list for PBXNativeTarget "Clock imageUITests" */;
+			buildConfigurationList = 3FFDC34A2ED4C35800F61815 /* Build configuration list for PBXNativeTarget "Clock imageUITests" */;
 			buildPhases = (
-				3FFDC2E42ECF152200F61815 /* Sources */,
-				3FFDC2E52ECF152200F61815 /* Frameworks */,
-				3FFDC2E62ECF152200F61815 /* Resources */,
+				3FFDC3362ED4C35800F61815 /* Sources */,
+				3FFDC3372ED4C35800F61815 /* Frameworks */,
+				3FFDC3382ED4C35800F61815 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				3FFDC2EA2ECF152200F61815 /* PBXTargetDependency */,
+				3FFDC33C2ED4C35800F61815 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				3FFDC2EB2ECF152200F61815 /* Clock imageUITests */,
+				3FFDC33D2ED4C35800F61815 /* Clock imageUITests */,
 			);
 			name = "Clock imageUITests";
 			packageProductDependencies = (
 			);
 			productName = "Clock imageUITests";
-			productReference = 3FFDC2E82ECF152200F61815 /* Clock imageUITests.xctest */;
+			productReference = 3FFDC33A2ED4C35800F61815 /* Clock imageUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3FFDC2C92ECF152000F61815 /* Project object */ = {
+		3FFDC31B2ED4C35700F61815 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2610;
 				LastUpgradeCheck = 2610;
 				TargetAttributes = {
-					3FFDC2D02ECF152000F61815 = {
+					3FFDC3222ED4C35700F61815 = {
 						CreatedOnToolsVersion = 26.1.1;
 					};
-					3FFDC2DD2ECF152200F61815 = {
+					3FFDC32F2ED4C35800F61815 = {
 						CreatedOnToolsVersion = 26.1.1;
-						TestTargetID = 3FFDC2D02ECF152000F61815;
+						TestTargetID = 3FFDC3222ED4C35700F61815;
 					};
-					3FFDC2E72ECF152200F61815 = {
+					3FFDC3392ED4C35800F61815 = {
 						CreatedOnToolsVersion = 26.1.1;
-						TestTargetID = 3FFDC2D02ECF152000F61815;
+						TestTargetID = 3FFDC3222ED4C35700F61815;
 					};
 				};
 			};
-			buildConfigurationList = 3FFDC2CC2ECF152000F61815 /* Build configuration list for PBXProject "Clock image" */;
+			buildConfigurationList = 3FFDC31E2ED4C35700F61815 /* Build configuration list for PBXProject "Clock image" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 3FFDC2C82ECF152000F61815;
+			mainGroup = 3FFDC31A2ED4C35700F61815;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 3FFDC2D22ECF152000F61815 /* Products */;
+			productRefGroup = 3FFDC3242ED4C35700F61815 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3FFDC2D02ECF152000F61815 /* Clock image */,
-				3FFDC2DD2ECF152200F61815 /* Clock imageTests */,
-				3FFDC2E72ECF152200F61815 /* Clock imageUITests */,
+				3FFDC3222ED4C35700F61815 /* Clock image */,
+				3FFDC32F2ED4C35800F61815 /* Clock imageTests */,
+				3FFDC3392ED4C35800F61815 /* Clock imageUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3FFDC2CF2ECF152000F61815 /* Resources */ = {
+		3FFDC3212ED4C35700F61815 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3FFDC2DC2ECF152200F61815 /* Resources */ = {
+		3FFDC32E2ED4C35800F61815 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3FFDC2E62ECF152200F61815 /* Resources */ = {
+		3FFDC3382ED4C35800F61815 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3FFDC2CD2ECF152000F61815 /* Sources */ = {
+		3FFDC31F2ED4C35700F61815 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3FFDC2DA2ECF152200F61815 /* Sources */ = {
+		3FFDC32C2ED4C35800F61815 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3FFDC2E42ECF152200F61815 /* Sources */ = {
+		3FFDC3362ED4C35800F61815 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		3FFDC2E02ECF152200F61815 /* PBXTargetDependency */ = {
+		3FFDC3322ED4C35800F61815 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3FFDC2D02ECF152000F61815 /* Clock image */;
-			targetProxy = 3FFDC2DF2ECF152200F61815 /* PBXContainerItemProxy */;
+			target = 3FFDC3222ED4C35700F61815 /* Clock image */;
+			targetProxy = 3FFDC3312ED4C35800F61815 /* PBXContainerItemProxy */;
 		};
-		3FFDC2EA2ECF152200F61815 /* PBXTargetDependency */ = {
+		3FFDC33C2ED4C35800F61815 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3FFDC2D02ECF152000F61815 /* Clock image */;
-			targetProxy = 3FFDC2E92ECF152200F61815 /* PBXContainerItemProxy */;
+			target = 3FFDC3222ED4C35700F61815 /* Clock image */;
+			targetProxy = 3FFDC33B2ED4C35800F61815 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		3FFDC2F02ECF152200F61815 /* Debug */ = {
+		3FFDC3422ED4C35800F61815 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -333,7 +333,7 @@
 			};
 			name = Debug;
 		};
-		3FFDC2F12ECF152200F61815 /* Release */ = {
+		3FFDC3432ED4C35800F61815 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -390,7 +390,7 @@
 			};
 			name = Release;
 		};
-		3FFDC2F32ECF152200F61815 /* Debug */ = {
+		3FFDC3452ED4C35800F61815 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -422,7 +422,7 @@
 			};
 			name = Debug;
 		};
-		3FFDC2F42ECF152200F61815 /* Release */ = {
+		3FFDC3462ED4C35800F61815 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -454,7 +454,7 @@
 			};
 			name = Release;
 		};
-		3FFDC2F62ECF152200F61815 /* Debug */ = {
+		3FFDC3482ED4C35800F61815 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -476,7 +476,7 @@
 			};
 			name = Debug;
 		};
-		3FFDC2F72ECF152200F61815 /* Release */ = {
+		3FFDC3492ED4C35800F61815 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -498,7 +498,7 @@
 			};
 			name = Release;
 		};
-		3FFDC2F92ECF152200F61815 /* Debug */ = {
+		3FFDC34B2ED4C35800F61815 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -518,7 +518,7 @@
 			};
 			name = Debug;
 		};
-		3FFDC2FA2ECF152200F61815 /* Release */ = {
+		3FFDC34C2ED4C35800F61815 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -541,43 +541,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3FFDC2CC2ECF152000F61815 /* Build configuration list for PBXProject "Clock image" */ = {
+		3FFDC31E2ED4C35700F61815 /* Build configuration list for PBXProject "Clock image" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3FFDC2F02ECF152200F61815 /* Debug */,
-				3FFDC2F12ECF152200F61815 /* Release */,
+				3FFDC3422ED4C35800F61815 /* Debug */,
+				3FFDC3432ED4C35800F61815 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3FFDC2F22ECF152200F61815 /* Build configuration list for PBXNativeTarget "Clock image" */ = {
+		3FFDC3442ED4C35800F61815 /* Build configuration list for PBXNativeTarget "Clock image" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3FFDC2F32ECF152200F61815 /* Debug */,
-				3FFDC2F42ECF152200F61815 /* Release */,
+				3FFDC3452ED4C35800F61815 /* Debug */,
+				3FFDC3462ED4C35800F61815 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3FFDC2F52ECF152200F61815 /* Build configuration list for PBXNativeTarget "Clock imageTests" */ = {
+		3FFDC3472ED4C35800F61815 /* Build configuration list for PBXNativeTarget "Clock imageTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3FFDC2F62ECF152200F61815 /* Debug */,
-				3FFDC2F72ECF152200F61815 /* Release */,
+				3FFDC3482ED4C35800F61815 /* Debug */,
+				3FFDC3492ED4C35800F61815 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3FFDC2F82ECF152200F61815 /* Build configuration list for PBXNativeTarget "Clock imageUITests" */ = {
+		3FFDC34A2ED4C35800F61815 /* Build configuration list for PBXNativeTarget "Clock imageUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3FFDC2F92ECF152200F61815 /* Debug */,
-				3FFDC2FA2ECF152200F61815 /* Release */,
+				3FFDC34B2ED4C35800F61815 /* Debug */,
+				3FFDC34C2ED4C35800F61815 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3FFDC2C92ECF152000F61815 /* Project object */;
+	rootObject = 3FFDC31B2ED4C35700F61815 /* Project object */;
 }

@@ -44,30 +44,35 @@ struct ContentView: View {
     
     
     
-    //     refrsh the state by button click
-    @State var relodeCount = 0
-    @State var relode = 0// Here we want to mention that @State allows to update/modify the property in the struct bcz by default struct properties are immutable.
-    var body: some View {
-        
-        VStack{
-            Button(action: {
-                self.relodeCount += 1})
-            {
-                
-                return Text("Welcome to IOS Learning Program \(relodeCount)")
-            }
-            
-            Button(action: {
-                self.relode -= 2})
-            {
-                return Text("IOS Learning Program \(relodesB)")
-            }
-        }
-    }
-}
+    //    //     refrsh the state by button click
+    //    @State var relodeCount = 0
+    //    @State var relode = 0// Here we want to mention that @State allows to update/modify the property in the struct bcz by default struct properties are immutable.
+    //    var body: some View {
+    //
+    //        VStack{
+    //            Button(action: {
+    //                self.relodeCount += 1})
+    //            {
+    //
+    //                return Text("Welcome to IOS Learning Program \(relodeCount)")
+    //            }
+    //
+    //            Button(action: {
+    //                self.relode -= 2})
+    //            {
+    //                return Text("IOS Learning Program \(relodes)")
+    //            }
+    //        }
+    //    }
+    //}
     
-
-        
+    
+    //Using @State and @bindnig wir=th explaining the
+    @
+    
+    
+    
+}
     
 
     

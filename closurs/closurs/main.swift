@@ -1,7 +1,6 @@
 
 
 import Foundation
-//Sorting names using closures
 let names = ["Alice", "Bob", "Charlie"]
 
 let sortedElements = getSortedNames(names)
